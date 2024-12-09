@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Afnan! 👋
 
-<!--
-**Syedafnan47/Syedafnan47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Recent CSE Grad and eager to explore diverse IT roles from **Software Development**, **Testing**, **Full-Stack & Web Development** to **Database Administration**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+- **[Online Banking System](https://github.com/YourRepo)**: A dynamic food ordering system built with React and Spring Boot.
+- **[Resume Builder](https://github.com/YourRepo)**: A customizable resume generator using Stripe for payment integration.
+
+---
+
+## 🛠️ Skills
+- **Languages**: Java, JavaScript, html, CSS, SQL , Python
+- **Frameworks/Tools**: Spring Boot, MySQL, React, Visual Studio Code
+- **Other Tools**: XAMPP, Git, Eclipse , PowerBI
+
+---
+
+## 📫 Let's Connect
+- My **[LinkedIn](https://www.linkedin.com/in/syedtarooqafnan47)**
+- My **[Email](mailto:syedtarooq786@gmail.com)**
+
+
+---
+
+Thanks for stopping by! 😊
